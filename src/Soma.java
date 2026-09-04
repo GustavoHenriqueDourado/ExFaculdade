@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Soma {
     public static void main(String[] args){
+
         int numeroA, numeroB; // primeiro vem o tipo de dado que a variável aceita e depois o nome dela
         int resultado;
 
