@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66eb57c6-a958-4865-8375-e98a16940266" name="Changes" comment="Primeiro Commit">
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/BooleanosEmJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/JavaIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/JavaSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/OperadoresJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/SaidaEmJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/SintaxeJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/StringsEmJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/TiposdeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/VariaveisEmJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Academia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Academia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CadastroDeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CadastroDeFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CalculadoraBasica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculoDeComissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CalculoDeComissao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CompraNoSupermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CompraNoSupermercado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comsumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Comsumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsumoDeCombustivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ConsumoDeCombustivel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaDeEnergia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ContaDeEnergia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleDeEstoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDeEstoque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleDePresenca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDePresenca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDeTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ControleDeVelocidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDeVelocidade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversaoDeMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ConversaoDeMoeda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Crud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Crud.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioAluguelDeBicicletas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/DesafioAluguelDeBicicletas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesafioSistemaDePedidoDeLanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/DesafioSistemaDePedidoDeLanche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Desconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DescontoNaLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/DescontoNaLoja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InternetResidencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/InternetResidencial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaiorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/MaiorIdade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Media.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MediaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/MediaEscolar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NotaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/NotaEscolar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OlaMundo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TiposDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/TiposDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrocaDeValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/TrocaDeValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VerificacaoDeSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/VerificacaoDeSenha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VerificacaoDeSenha2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/VerificacaoDeSenha2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GustavoHenriqueDourado&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GustavoHenriqueDourado/ExFaculdade.git&quot;,
+    &quot;accountId&quot;: &quot;231e4a9f-027c-4d93-aad8-d70768f12858&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000015340578" />
+      <entry key="MS500" value="1.0172733488122994" />
+      <entry key="S2" value="1.4498496086295658" />
+      <entry key="S5" value="2.3832023372287026" />
+      <entry key="S10" value="3.4601933464822054" />
+      <entry key="S30" value="5.349525186251362" />
+      <entry key="S60" value="6.918420997023387" />
+      <entry key="M2" value="10.299352605181673" />
+      <entry key="M5" value="22.594929860237148" />
+      <entry key="M10" value="42.13426058223624" />
+      <entry key="M15" value="57.470856841316326" />
+      <entry key="M30" value="90.15606053315351" />
+      <entry key="H1" value="155.59649276113905" />
+      <entry key="H2" value="321.47914087257783" />
+      <entry key="H4" value="640.0413990925978" />
+      <entry key="D1" value="1732.19484674253" />
+      <entry key="W1" value="2196.828780768299" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.691139730241497E-279" />
+      <entry key="S2" value="2.617095629924993E-70" />
+      <entry key="S5" value="1.4693587275924937E-28" />
+      <entry key="S10" value="1.2121711011358176E-14" />
+      <entry key="S30" value="2.3036765019456984E-5" />
+      <entry key="S60" value="0.005113675465793987" />
+      <entry key="M2" value="0.09362330902618857" />
+      <entry key="M5" value="0.6836682083222074" />
+      <entry key="M10" value="1.4311150246836926" />
+      <entry key="M15" value="1.922884110048106" />
+      <entry key="M30" value="3.0505225969345005" />
+      <entry key="H1" value="5.966965844145149" />
+      <entry key="H2" value="15.14014702010649" />
+      <entry key="H4" value="33.004281946651886" />
+      <entry key="D1" value="88.34748147229665" />
+      <entry key="W1" value="110.55090927703208" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.6441624637312277E-9" />
+      <entry key="MS500" value="0.017901062163892867" />
+      <entry key="S2" value="0.5541603897988383" />
+      <entry key="S5" value="1.6951814096521916" />
+      <entry key="S10" value="2.9586973890430035" />
+      <entry key="S30" value="4.96303693564077" />
+      <entry key="S60" value="6.490680861395704" />
+      <entry key="M2" value="9.994685920373948" />
+      <entry key="M5" value="23.0112765598339" />
+      <entry key="M10" value="43.38677232281176" />
+      <entry key="M15" value="59.25593812948623" />
+      <entry key="M30" value="93.11941877421411" />
+      <entry key="H1" value="161.49727593023255" />
+      <entry key="H2" value="336.54312522973083" />
+      <entry key="H4" value="672.9609072281988" />
+      <entry key="D1" value="1820.5026571925493" />
+      <entry key="W1" value="2307.37248056944" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ISG2NDjFQG7Y7Hb3VLlLVDjP3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Academia.executor": "Run",
+    "Application.BooleanosEmJava.executor": "Run",
+    "Application.CadastroDeFuncionario.executor": "Run",
+    "Application.CalculadoraBasica.executor": "Run",
+    "Application.CalculoDeComissao.executor": "Run",
+    "Application.Comsumo.executor": "Run",
+    "Application.ConsumoDeCombustivel.executor": "Run",
+    "Application.ContaDeEnergia.executor": "Run",
+    "Application.ControleDePresenca.executor": "Run",
+    "Application.ControleDeTemperatura.executor": "Run",
+    "Application.ControleDeVelocidade.executor": "Run",
+    "Application.ConversaoDeMoeda.executor": "Run",
+    "Application.Crud.executor": "Run",
+    "Application.DesafioAluguelDeBicicletas.executor": "Run",
+    "Application.DesafioSistemaDePedidoDeLanche.executor": "Run",
+    "Application.Desconto.executor": "Run",
+    "Application.DescontoNaLoja.executor": "Run",
+    "Application.ExFaculdade.Academia.executor": "Run",
+    "Application.JavaIfElse.executor": "Run",
+    "Application.JavaSwitch.executor": "Run",
+    "Application.MaiorIdade.executor": "Run",
+    "Application.Media.executor": "Run",
+    "Application.MediaEscolar.executor": "Run",
+    "Application.NotaEscolar.executor": "Run",
+    "Application.OlaMundo.executor": "Run",
+    "Application.OperadoresJava.executor": "Run",
+    "Application.SaidaEmJava.executor": "Run",
+    "Application.SintaxeJava.executor": "Run",
+    "Application.Soma.executor": "Run",
+    "Application.StringsEmJava.executor": "Run",
+    "Application.TiposDeDados.executor": "Run",
+    "Application.TiposdeDados.executor": "Run",
+    "Application.TrocaDeValores.executor": "Run",
+    "Application.VerificacaoDeSenha.executor": "Run",
+    "Application.VerificadorDeSenha2.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Gustavo/IdeaProjects/ExFaculdade/src/ExFaculdade",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gustavo\IdeaProjects\ExFaculdade\src\ExFaculdade" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaSwitch">
+    <configuration name="BooleanosEmJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3SchoolsJava.BooleanosEmJava" />
+      <module name="ExFaculdade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3SchoolsJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3SchoolsJava.JavaIfElse" />
+      <module name="ExFaculdade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3SchoolsJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3SchoolsJava.JavaSwitch" />
+      <module name="ExFaculdade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3SchoolsJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3SchoolsJava.OperadoresJava" />
+      <module name="ExFaculdade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3SchoolsJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringsEmJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3SchoolsJava.StringsEmJava" />
+      <module name="ExFaculdade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3SchoolsJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaSwitch" />
+        <item itemvalue="Application.JavaIfElse" />
+        <item itemvalue="Application.BooleanosEmJava" />
+        <item itemvalue="Application.StringsEmJava" />
+        <item itemvalue="Application.OperadoresJava" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66eb57c6-a958-4865-8375-e98a16940266" name="Changes" comment="" />
+      <created>1787750349157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787750349157</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
