@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66eb57c6-a958-4865-8375-e98a16940266" name="Changes" comment="Primeiro Commit">
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/BooleanosEmJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/JavaIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/JavaSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/OperadoresJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/SaidaEmJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/SintaxeJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/StringsEmJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/TiposdeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3SchoolsJava/VariaveisEmJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Academia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Academia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CadastroDeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CadastroDeFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculadoraBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CalculadoraBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculoDeComissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CalculoDeComissao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CompraNoSupermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/CompraNoSupermercado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Comsumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Comsumo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConsumoDeCombustivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ConsumoDeCombustivel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaDeEnergia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ContaDeEnergia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeEstoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDeEstoque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDePresenca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDePresenca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDeTemperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ControleDeVelocidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ControleDeVelocidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConversaoDeMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/ConversaoDeMoeda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Crud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Crud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioAluguelDeBicicletas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/DesafioAluguelDeBicicletas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesafioSistemaDePedidoDeLanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/DesafioSistemaDePedidoDeLanche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Desconto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DescontoNaLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/DescontoNaLoja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InternetResidencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/InternetResidencial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaiorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/MaiorIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MediaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/MediaEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NotaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/NotaEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OlaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OlaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TiposDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/TiposDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrocaDeValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/TrocaDeValores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VerificacaoDeSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/VerificacaoDeSenha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VerificacaoDeSenha2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/VerificacaoDeSenha2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,61 +36,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000015340578" />
-      <entry key="MS500" value="1.0172733488122994" />
-      <entry key="S2" value="1.4498496086295658" />
-      <entry key="S5" value="2.3832023372287026" />
-      <entry key="S10" value="3.4601933464822054" />
-      <entry key="S30" value="5.349525186251362" />
-      <entry key="S60" value="6.918420997023387" />
-      <entry key="M2" value="10.299352605181673" />
-      <entry key="M5" value="22.594929860237148" />
-      <entry key="M10" value="42.13426058223624" />
-      <entry key="M15" value="57.470856841316326" />
-      <entry key="M30" value="90.15606053315351" />
-      <entry key="H1" value="155.59649276113905" />
-      <entry key="H2" value="321.47914087257783" />
-      <entry key="H4" value="640.0413990925978" />
-      <entry key="D1" value="1732.19484674253" />
-      <entry key="W1" value="2196.828780768299" />
+      <entry key="MS100" value="1.0000000032430536" />
+      <entry key="MS500" value="1.0200535296494244" />
+      <entry key="S2" value="1.3765633881024726" />
+      <entry key="S5" value="1.7127615405532217" />
+      <entry key="S10" value="2.0130738474711287" />
+      <entry key="S30" value="2.5128810044614784" />
+      <entry key="S60" value="2.8457677357097513" />
+      <entry key="M2" value="4.978585060380105" />
+      <entry key="M5" value="15.84241970527618" />
+      <entry key="M10" value="29.376244221011564" />
+      <entry key="M15" value="40.54398296254396" />
+      <entry key="M30" value="72.31753819302949" />
+      <entry key="H1" value="136.92937959343388" />
+      <entry key="H2" value="293.46659427506336" />
+      <entry key="H4" value="608.218912021993" />
+      <entry key="D1" value="1747.7446156297776" />
+      <entry key="W1" value="2247.0695019758523" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="4.691139730241497E-279" />
-      <entry key="S2" value="2.617095629924993E-70" />
-      <entry key="S5" value="1.4693587275924937E-28" />
-      <entry key="S10" value="1.2121711011358176E-14" />
-      <entry key="S30" value="2.3036765019456984E-5" />
-      <entry key="S60" value="0.005113675465793987" />
-      <entry key="M2" value="0.09362330902618857" />
-      <entry key="M5" value="0.6836682083222074" />
-      <entry key="M10" value="1.4311150246836926" />
-      <entry key="M15" value="1.922884110048106" />
-      <entry key="M30" value="3.0505225969345005" />
-      <entry key="H1" value="5.966965844145149" />
-      <entry key="H2" value="15.14014702010649" />
-      <entry key="H4" value="33.004281946651886" />
-      <entry key="D1" value="88.34748147229665" />
-      <entry key="W1" value="110.55090927703208" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.6523739869646828E-213" />
+      <entry key="S10" value="5.15012046337804E-107" />
+      <entry key="S30" value="3.731120824044578E-36" />
+      <entry key="S60" value="2.057984373344604E-18" />
+      <entry key="M2" value="1.8781853206787418E-9" />
+      <entry key="M5" value="5.698849225905472E-4" />
+      <entry key="M10" value="0.04131858424199756" />
+      <entry key="M15" value="0.18096741019510793" />
+      <entry key="M30" value="0.9358319683135523" />
+      <entry key="H1" value="3.3049536036411133" />
+      <entry key="H2" value="11.267718798649879" />
+      <entry key="H4" value="28.47234532314252" />
+      <entry key="D1" value="86.19915315017465" />
+      <entry key="W1" value="110.16281079070565" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.6441624637312277E-9" />
-      <entry key="MS500" value="0.017901062163892867" />
-      <entry key="S2" value="0.5541603897988383" />
-      <entry key="S5" value="1.6951814096521916" />
-      <entry key="S10" value="2.9586973890430035" />
-      <entry key="S30" value="4.96303693564077" />
-      <entry key="S60" value="6.490680861395704" />
-      <entry key="M2" value="9.994685920373948" />
-      <entry key="M5" value="23.0112765598339" />
-      <entry key="M10" value="43.38677232281176" />
-      <entry key="M15" value="59.25593812948623" />
-      <entry key="M30" value="93.11941877421411" />
-      <entry key="H1" value="161.49727593023255" />
-      <entry key="H2" value="336.54312522973083" />
-      <entry key="H4" value="672.9609072281988" />
-      <entry key="D1" value="1820.5026571925493" />
-      <entry key="W1" value="2307.37248056944" />
+      <entry key="MS100" value="0.9726549505017417" />
+      <entry key="MS500" value="1.0143300388186176" />
+      <entry key="S2" value="1.3742316746872865" />
+      <entry key="S5" value="1.7094672773317745" />
+      <entry key="S10" value="2.006851207442443" />
+      <entry key="S30" value="2.506987753759463" />
+      <entry key="S60" value="2.841006082234351" />
+      <entry key="M2" value="4.970844720155345" />
+      <entry key="M5" value="15.831878562583094" />
+      <entry key="M10" value="29.40369250200847" />
+      <entry key="M15" value="40.70515616623623" />
+      <entry key="M30" value="73.22261077181425" />
+      <entry key="H1" value="140.19549302504092" />
+      <entry key="H2" value="304.676492590074" />
+      <entry key="H4" value="636.6175430406129" />
+      <entry key="D1" value="1833.9049638738884" />
+      <entry key="W1" value="2357.225114478384" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
