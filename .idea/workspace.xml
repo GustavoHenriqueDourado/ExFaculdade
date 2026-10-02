@@ -5,52 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66eb57c6-a958-4865-8375-e98a16940266" name="Changes" comment="Primeiro Commit">
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/AcerteONumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/DesafioCalculoDeVendas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/ExibaNumerosde1a20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/MenuComOpcoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/Os15primeirosNumerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/RegistroDePedidos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasDeRepeticao/SolicitacaoDeSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/Modularizacao/DevStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/Academia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/Academia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/CadastroDeFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/CadastroDeFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/CalculadoraBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/CalculadoraBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/CalculoDeComissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/CalculoDeComissao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/CompraNoSupermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/CompraNoSupermercado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/Comsumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/Comsumo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ConsumoDeCombustivel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/ConsumoDeCombustivel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ContaDeEnergia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/ContaDeEnergia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ControleDeEstoque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/ControleDeEstoque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ControleDePresenca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/ControleDePresenca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ControleDeTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/ControleDeTemperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ControleDeVelocidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/ControleDeVelocidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/ConversaoDeMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/ConversaoDeMoeda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/Crud.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/Crud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/DesafioAluguelDeBicicletas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/DesafioAluguelDeBicicletas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/DesafioSistemaDePedidoDeLanche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/DesafioSistemaDePedidoDeLanche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/Desconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/Desconto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/DescontoNaLoja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/DescontoNaLoja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/InternetResidencial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/InternetResidencial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/MaiorIdade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/MaiorIdade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/Media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/Media.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/MediaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/MediaEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/NotaEscolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/NotaEscolar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/OlaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/OlaMundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/TiposDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/TiposDeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/TrocaDeValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/OperadoresLogicos_TiposDeDados/TrocaDeValores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/VerificacaoDeSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/VerificacaoDeSenha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExFaculdade/VerificacaoDeSenha2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExFaculdade/EstruturasCondicionais/VerificacaoDeSenha2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/BooleanosEmJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/BooleanosEmJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/JavaIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/JavaIfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/JavaSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/JavaSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/OperadoresJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/OperadoresJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/SaidaEmJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/SaidaEmJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/SintaxeJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/SintaxeJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/StringsEmJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/StringsEmJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/TiposdeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/TiposdeDados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w3SchoolsJava/VariaveisEmJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/VariaveisEmJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,60 +38,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0001211391732248" />
-      <entry key="S2" value="1.1761878316453602" />
-      <entry key="S5" value="1.7567610838159284" />
-      <entry key="S10" value="2.2302294792644783" />
-      <entry key="S30" value="2.700905581633781" />
-      <entry key="S60" value="2.8444966821360236" />
-      <entry key="M2" value="2.93147062638969" />
-      <entry key="M5" value="3.3205443472360536" />
-      <entry key="M10" value="5.851683347219207" />
-      <entry key="M15" value="11.345067792282006" />
-      <entry key="M30" value="35.07378200810151" />
-      <entry key="H1" value="78.10689215935426" />
-      <entry key="H2" value="164.82589324724322" />
-      <entry key="H4" value="400.479894282265" />
-      <entry key="D1" value="1775.1294151911925" />
-      <entry key="W1" value="2547.494657860429" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000900311818" />
+      <entry key="S10" value="1.0003000519653418" />
+      <entry key="S30" value="1.0669471601966678" />
+      <entry key="S60" value="1.258763098322134" />
+      <entry key="M2" value="1.5180445772024886" />
+      <entry key="M5" value="2.3857424513791594" />
+      <entry key="M10" value="5.582938056276578" />
+      <entry key="M15" value="9.530716762764117" />
+      <entry key="M30" value="19.815090242187388" />
+      <entry key="H1" value="38.1929338199147" />
+      <entry key="H2" value="92.54972754118643" />
+      <entry key="H4" value="220.03431320584596" />
+      <entry key="D1" value="1552.3049970711334" />
+      <entry key="W1" value="3146.566946248731" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.4624661867493656E-203" />
-      <entry key="S5" value="7.349153837371433E-82" />
-      <entry key="S10" value="2.7689031249194957E-41" />
-      <entry key="S30" value="3.8434381553230905E-14" />
-      <entry key="S60" value="2.7007375602488535E-7" />
-      <entry key="M2" value="7.932395838395261E-4" />
-      <entry key="M5" value="0.12504020690965706" />
-      <entry key="M10" value="1.0451723987992534" />
-      <entry key="M15" value="2.462009483001843" />
-      <entry key="M30" value="6.469823884639568" />
-      <entry key="H1" value="11.119598739879715" />
-      <entry key="H2" value="15.949186340344825" />
-      <entry key="H4" value="26.33686916951677" />
-      <entry key="D1" value="90.86857848664677" />
-      <entry key="W1" value="127.15958427040711" />
+      <entry key="S2" value="1.4507686587383087E-214" />
+      <entry key="S5" value="2.999135399696782E-86" />
+      <entry key="S10" value="1.997628492003238E-43" />
+      <entry key="S30" value="8.621232923448115E-15" />
+      <entry key="S60" value="1.3039480526058535E-7" />
+      <entry key="M2" value="5.382818837410513E-4" />
+      <entry key="M5" value="0.10534258532835351" />
+      <entry key="M10" value="0.8490256645620905" />
+      <entry key="M15" value="1.9146415009241131" />
+      <entry key="M30" value="4.7694488020054" />
+      <entry key="H1" value="8.785783660993232" />
+      <entry key="H2" value="17.39176563905472" />
+      <entry key="H4" value="37.41981181241022" />
+      <entry key="D1" value="152.74584950246037" />
+      <entry key="W1" value="249.150511182664" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.829507203496118E-15" />
-      <entry key="MS500" value="0.0015671832464565453" />
-      <entry key="S2" value="0.32813550151677406" />
-      <entry key="S5" value="1.1867094110499965" />
-      <entry key="S10" value="1.8731539797665537" />
-      <entry key="S30" value="2.559982851560725" />
-      <entry key="S60" value="2.770812186910441" />
-      <entry key="M2" value="2.8945598561198795" />
-      <entry key="M5" value="3.429335630793126" />
-      <entry key="M10" value="6.883336174964005" />
-      <entry key="M15" value="13.790189165709203" />
-      <entry key="M30" value="41.51898244983517" />
-      <entry key="H1" value="89.20054612959197" />
-      <entry key="H2" value="180.74855517753662" />
-      <entry key="H4" value="426.77885268687015" />
-      <entry key="D1" value="1865.9625077880255" />
-      <entry key="W1" value="2674.64672129555" />
+      <entry key="MS100" value="0.02646079101132897" />
+      <entry key="MS500" value="0.483638164806966" />
+      <entry key="S2" value="0.833931043824964" />
+      <entry key="S5" value="0.9299339274167819" />
+      <entry key="S10" value="0.9646092271101698" />
+      <entry key="S30" value="1.0532663194917784" />
+      <entry key="S60" value="1.2495238766409025" />
+      <entry key="M2" value="1.5120404753422545" />
+      <entry key="M5" value="2.481712500739309" />
+      <entry key="M10" value="6.415790836002316" />
+      <entry key="M15" value="11.426098225263342" />
+      <entry key="M30" value="24.564978726844966" />
+      <entry key="H1" value="46.961802910203346" />
+      <entry key="H2" value="109.92336115762201" />
+      <entry key="H4" value="257.4329706088394" />
+      <entry key="D1" value="1705.0226988577867" />
+      <entry key="W1" value="3395.7088196712907" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -168,7 +124,11 @@
     "Application.DesafioSistemaDePedidoDeLanche.executor": "Run",
     "Application.Desconto.executor": "Run",
     "Application.DescontoNaLoja.executor": "Run",
+    "Application.DevStore.executor": "Run",
     "Application.ExFaculdade.Academia.executor": "Run",
+    "Application.ExFaculdade.Modularizacao.DevStore.SistemaDeGestaoDeVendasCaixa.executor": "Run",
+    "Application.ExFaculdade.Modularizacao.DevStore.executor": "Run",
+    "Application.ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa.executor": "Run",
     "Application.ExibaNumerosde1a20.executor": "Run",
     "Application.JavaIfElse.executor": "Run",
     "Application.JavaSwitch.executor": "Run",
@@ -183,6 +143,7 @@
     "Application.RegistroDePedidos.executor": "Run",
     "Application.SaidaEmJava.executor": "Run",
     "Application.SintaxeJava.executor": "Run",
+    "Application.SistemaDeGestaoDeVendasCaixa.executor": "Run",
     "Application.SolicitacaoDeSenha.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.StringsEmJava.executor": "Run",
@@ -211,6 +172,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true"
   }
@@ -220,20 +182,7 @@
       <recent name="C:\Users\Gustavo\IdeaProjects\ExFaculdade\src\ExFaculdade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DesafioCalculoDeVendas">
-    <configuration name="ConversaoDeMoeda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.OperadoresLogicos_TiposDeDados.ConversaoDeMoeda" />
-      <module name="ExFaculdade" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExFaculdade.OperadoresLogicos_TiposDeDados.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExFaculdade.Modularizacao.DevStore">
     <configuration name="DesafioCalculoDeVendas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExFaculdade.EstruturasDeRepeticao.DesafioCalculoDeVendas" />
       <module name="ExFaculdade" />
@@ -247,12 +196,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuComOpcoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.EstruturasDeRepeticao.MenuComOpcoes" />
+    <configuration name="DevStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DevStore" />
+      <module name="ExFaculdade" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExFaculdade.Modularizacao.DevStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFaculdade.Modularizacao.DevStore" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="ExFaculdade.Modularizacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RegistroDePedidos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.EstruturasDeRepeticao.RegistroDePedidos" />
+    <configuration name="ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="ExFaculdade.Modularizacao.DevStore0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolicitacaoDeSenha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.EstruturasDeRepeticao.SolicitacaoDeSenha" />
+    <configuration name="SistemaDeGestaoDeVendasCaixa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFaculdade.A.DevStore.SistemaDeGestaoDeVendasCaixa" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="ExFaculdade.A.DevStore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExFaculdade.Modularizacao.DevStore" />
+        <item itemvalue="Application.DevStore" />
+        <item itemvalue="Application.ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa" />
+        <item itemvalue="Application.SistemaDeGestaoDeVendasCaixa" />
         <item itemvalue="Application.DesafioCalculoDeVendas" />
-        <item itemvalue="Application.ConversaoDeMoeda" />
-        <item itemvalue="Application.RegistroDePedidos" />
-        <item itemvalue="Application.MenuComOpcoes" />
-        <item itemvalue="Application.SolicitacaoDeSenha" />
       </list>
     </recent_temporary>
   </component>
