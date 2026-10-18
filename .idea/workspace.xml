@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66eb57c6-a958-4865-8375-e98a16940266" name="Changes" comment="Primeiro Commit">
-      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/Modularizacao/DevStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/RevisaoProvaA1/Questao01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/RevisaoProvaA1/Questao02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/RevisaoProvaA1/Questao04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/RevisaoProvaA1/Questao05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/RevisaoProvaA1/Questao3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExFaculdade/RevisaoProvaA1/QuestaoExtra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafiosW3SchoolsJava/MatrizesJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,61 +43,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000900311818" />
-      <entry key="S10" value="1.0003000519653418" />
-      <entry key="S30" value="1.0669471601966678" />
-      <entry key="S60" value="1.258763098322134" />
-      <entry key="M2" value="1.5180445772024886" />
-      <entry key="M5" value="2.3857424513791594" />
-      <entry key="M10" value="5.582938056276578" />
-      <entry key="M15" value="9.530716762764117" />
-      <entry key="M30" value="19.815090242187388" />
-      <entry key="H1" value="38.1929338199147" />
-      <entry key="H2" value="92.54972754118643" />
-      <entry key="H4" value="220.03431320584596" />
-      <entry key="D1" value="1552.3049970711334" />
-      <entry key="W1" value="3146.566946248731" />
+      <entry key="MS100" value="1.0000004538925535" />
+      <entry key="MS500" value="1.093710522418656" />
+      <entry key="S2" value="1.9305129241874552" />
+      <entry key="S5" value="2.491516078450233" />
+      <entry key="S10" value="2.8535748788268243" />
+      <entry key="S30" value="3.417864896025693" />
+      <entry key="S60" value="3.731101573606792" />
+      <entry key="M2" value="4.258012200655226" />
+      <entry key="M5" value="5.424831604306717" />
+      <entry key="M10" value="6.681784883128872" />
+      <entry key="M15" value="7.71961971126463" />
+      <entry key="M30" value="14.41492240687865" />
+      <entry key="H1" value="50.43969218502283" />
+      <entry key="H2" value="145.21468949716854" />
+      <entry key="H4" value="318.9481823947067" />
+      <entry key="D1" value="1737.9439846230364" />
+      <entry key="W1" value="3802.129238957309" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.4507686587383087E-214" />
-      <entry key="S5" value="2.999135399696782E-86" />
-      <entry key="S10" value="1.997628492003238E-43" />
-      <entry key="S30" value="8.621232923448115E-15" />
-      <entry key="S60" value="1.3039480526058535E-7" />
-      <entry key="M2" value="5.382818837410513E-4" />
-      <entry key="M5" value="0.10534258532835351" />
-      <entry key="M10" value="0.8490256645620905" />
-      <entry key="M15" value="1.9146415009241131" />
-      <entry key="M30" value="4.7694488020054" />
-      <entry key="H1" value="8.785783660993232" />
-      <entry key="H2" value="17.39176563905472" />
-      <entry key="H4" value="37.41981181241022" />
-      <entry key="D1" value="152.74584950246037" />
-      <entry key="W1" value="249.150511182664" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="3.1153582017407644E-198" />
+      <entry key="S30" value="1.9720065714592816E-66" />
+      <entry key="S60" value="1.9744084615707433E-33" />
+      <entry key="M2" value="7.0087569025979E-17" />
+      <entry key="M5" value="9.75429075337676E-7" />
+      <entry key="M10" value="0.0038958205861079316" />
+      <entry key="M15" value="0.07394074768728832" />
+      <entry key="M30" value="1.7021467206868066" />
+      <entry key="H1" value="9.373295328067611" />
+      <entry key="H2" value="24.09514410988187" />
+      <entry key="H4" value="44.51793212232264" />
+      <entry key="D1" value="174.94558588949135" />
+      <entry key="W1" value="316.718364863941" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.02646079101132897" />
-      <entry key="MS500" value="0.483638164806966" />
-      <entry key="S2" value="0.833931043824964" />
-      <entry key="S5" value="0.9299339274167819" />
-      <entry key="S10" value="0.9646092271101698" />
-      <entry key="S30" value="1.0532663194917784" />
-      <entry key="S60" value="1.2495238766409025" />
-      <entry key="M2" value="1.5120404753422545" />
-      <entry key="M5" value="2.481712500739309" />
-      <entry key="M10" value="6.415790836002316" />
-      <entry key="M15" value="11.426098225263342" />
-      <entry key="M30" value="24.564978726844966" />
-      <entry key="H1" value="46.961802910203346" />
-      <entry key="H2" value="109.92336115762201" />
-      <entry key="H4" value="257.4329706088394" />
-      <entry key="D1" value="1705.0226988577867" />
-      <entry key="W1" value="3395.7088196712907" />
+      <entry key="MS100" value="0.9526383153532719" />
+      <entry key="MS500" value="1.0766838642223986" />
+      <entry key="S2" value="1.9087767752122666" />
+      <entry key="S5" value="2.478165977529333" />
+      <entry key="S10" value="2.8457934833889778" />
+      <entry key="S30" value="3.4149376470476462" />
+      <entry key="S60" value="3.729428360462179" />
+      <entry key="M2" value="4.256684814001418" />
+      <entry key="M5" value="5.423754732105323" />
+      <entry key="M10" value="6.684795027150276" />
+      <entry key="M15" value="7.792440095209316" />
+      <entry key="M30" value="16.11193452330876" />
+      <entry key="H1" value="59.79797710017292" />
+      <entry key="H2" value="169.28661503770599" />
+      <entry key="H4" value="363.4400151998199" />
+      <entry key="D1" value="1912.8614496162663" />
+      <entry key="W1" value="4118.837884875124" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -133,6 +139,7 @@
     "Application.JavaIfElse.executor": "Run",
     "Application.JavaSwitch.executor": "Run",
     "Application.MaiorIdade.executor": "Run",
+    "Application.MatrizesJava.executor": "Run",
     "Application.Media.executor": "Run",
     "Application.MediaEscolar.executor": "Run",
     "Application.MenuComOpcoes.executor": "Run",
@@ -140,6 +147,13 @@
     "Application.OlaMundo.executor": "Run",
     "Application.OperadoresJava.executor": "Run",
     "Application.Os15primeirosNumerosPares.executor": "Run",
+    "Application.Questao01.executor": "Run",
+    "Application.Questao02.executor": "Run",
+    "Application.Questao04.executor": "Run",
+    "Application.Questao05.executor": "Run",
+    "Application.Questao3.executor": "Run",
+    "Application.QuestaoExtra.executor": "Run",
+    "Application.QuestaoExtra01.executor": "Run",
     "Application.RegistroDePedidos.executor": "Run",
     "Application.SaidaEmJava.executor": "Run",
     "Application.SintaxeJava.executor": "Run",
@@ -152,6 +166,7 @@
     "Application.TrocaDeValores.executor": "Run",
     "Application.VerificacaoDeSenha.executor": "Run",
     "Application.VerificadorDeSenha2.executor": "Run",
+    "Application.teste.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -182,13 +197,13 @@
       <recent name="C:\Users\Gustavo\IdeaProjects\ExFaculdade\src\ExFaculdade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExFaculdade.Modularizacao.DevStore">
-    <configuration name="DesafioCalculoDeVendas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.EstruturasDeRepeticao.DesafioCalculoDeVendas" />
+  <component name="RunManager" selected="Application.QuestaoExtra">
+    <configuration name="MatrizesJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="desafiosW3SchoolsJava.MatrizesJava" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.EstruturasDeRepeticao.*" />
+          <option name="PATTERN" value="desafiosW3SchoolsJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,20 +211,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DevStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DevStore" />
-      <module name="ExFaculdade" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExFaculdade.Modularizacao.DevStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.Modularizacao.DevStore" />
+    <configuration name="Questao05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFaculdade.RevisaoProvaA1.Questao05" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.Modularizacao.*" />
+          <option name="PATTERN" value="ExFaculdade.RevisaoProvaA1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +224,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa" />
+    <configuration name="QuestaoExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFaculdade.RevisaoProvaA1.QuestaoExtra" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.Modularizacao.DevStore0.*" />
+          <option name="PATTERN" value="ExFaculdade.RevisaoProvaA1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,26 +237,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemaDeGestaoDeVendasCaixa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExFaculdade.A.DevStore.SistemaDeGestaoDeVendasCaixa" />
+    <configuration name="QuestaoExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFaculdade.RevisaoProvaA1.QuestaoExtra" />
       <module name="ExFaculdade" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExFaculdade.A.DevStore.*" />
+          <option name="PATTERN" value="ExFaculdade.RevisaoProvaA1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste" />
+      <module name="ExFaculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExFaculdade.Modularizacao.DevStore" />
-        <item itemvalue="Application.DevStore" />
-        <item itemvalue="Application.ExFaculdade.Modularizacao.DevStore0.SistemaDeGestaoDeVendasCaixa" />
-        <item itemvalue="Application.SistemaDeGestaoDeVendasCaixa" />
-        <item itemvalue="Application.DesafioCalculoDeVendas" />
+        <item itemvalue="Application.QuestaoExtra" />
+        <item itemvalue="Application.QuestaoExtra01" />
+        <item itemvalue="Application.Questao05" />
+        <item itemvalue="Application.MatrizesJava" />
+        <item itemvalue="Application.teste" />
       </list>
     </recent_temporary>
   </component>
